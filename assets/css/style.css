@@ -39,3 +39,8 @@ body{
     color: var(--dark-color);
     font-family: var(--body-font);
 }
+
+img{
+    max-width: 100%;
+    height: auto;
+}
