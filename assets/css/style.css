@@ -44,3 +44,12 @@ img{
     max-width: 100%;
     height: auto;
 }
+
+a{
+    text-decoration: none;
+}
+
+/*============ LAYOUT============ */
+.main{
+    padding: 2rem 0;
+}
