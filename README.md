@@ -2,7 +2,8 @@
 
 
 
-![productCard](https://user-images.githubusercontent.com/26189854/158935466-fd35ab57-dbed-4ef5-bfd4-082add3fe5f5.gif)
+![productCard](https://user-images.githubusercontent.com/26189854/158936391-a1101c5c-a8b0-4e7b-a307-85ee005e89e2.gif)
+
 
 
 
